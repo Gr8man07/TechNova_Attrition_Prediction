@@ -58,7 +58,7 @@ The dataset (`employee_churn_dataset.csv`) contains various employee-related att
 ## Repository Contents
 
 - `TechNova_Attrition_Prediction_C0926301.ipynb`: Main notebook with full analysis:
-- 1. Context
+1. Context
 2. Problem Statement
 3. Objective
 4. Data Understanding
