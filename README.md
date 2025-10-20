@@ -57,7 +57,20 @@ The dataset (`employee_churn_dataset.csv`) contains various employee-related att
 
 ## Repository Contents
 
-- `TechNova_Attrition_Prediction_C0926301.ipynb`: Main notebook with full analysis, modeling, and recommendations
+- `TechNova_Attrition_Prediction_C0926301.ipynb`: Main notebook with full analysis:
+- 1. Context
+2. Problem Statement
+3. Objective
+4. Data Understanding
+5. Exploratory Data Analysis (EDA)
+6. Data Preprocessing
+7. Feature Engineering
+8. Experiment Design
+9. Data Preparation
+10. Data Modelling
+11. Model Evaluation
+12. Model Explainability
+13. Recommendations
 - `README.md`: Project overview and documentation
 
 ---
