@@ -85,7 +85,7 @@ The dataset (`employee_churn_dataset.csv`) contains various employee-related att
 
 ## Conclusion
 
-The dataset's imbalance—approximately 20% churn rate—significantly impacted model performance. Across all models, recall for the minority class (churn) ranged from 0.02 to 0.16, indicating a strong bias toward predicting the majority class (non-churn), despite mitigation efforts such as SMOTE and class weighting.
+The dataset's imbalance approximately 20% churn rate, significantly impacted model performance. Across all models, recall for the minority class (churn) ranged from 0.02 to 0.16, indicating a strong bias toward predicting the majority class (non-churn), despite mitigation efforts such as SMOTE and class weighting.
 
 This imbalance limits the model's ability to accurately identify at-risk employees. While feature engineering and hyperparameter tuning provided valuable insights, the results suggest that more advanced resampling techniques or ensemble methods may be necessary to improve future predictions. Alternatively, collecting a more balanced dataset could enhance model generalization.
 
